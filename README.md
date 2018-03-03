@@ -2,7 +2,7 @@
 
 A minimal example to show how to use [observable-redux-json-api](https://github.com/kristerkari/observable-redux-json-api) library using [React](https://reactjs.org/) and [Express.js](https://expressjs.com/).
 
-This example app includes both backend ([Express](https://expressjs.com/)) and frontend ([React](https://reactjs.org/)) to show you how you can use [Redux]((https://redux.js.org/), [RxJS](http://reactivex.io/rxjs/) and [JSON API](http://jsonapi.org/) together.
+This example app includes both backend ([Express](https://expressjs.com/)) and frontend ([React](https://reactjs.org/)) to show you how you can use [Redux](https://redux.js.org/), [RxJS](http://reactivex.io/rxjs/) and [JSON API](http://jsonapi.org/) together.
 
 ## The app uses the following libraries
 
