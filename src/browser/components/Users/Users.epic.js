@@ -1,5 +1,4 @@
 import { readEndpoint } from "observable-redux-json-api";
-import { Observable } from "rxjs/Observable";
 
 export const fetchUsers = (action$, store) =>
   action$
