@@ -1,5 +1,7 @@
 # Observables + Redux + JSON API Example App
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristerkari/observable-redux-json-api-example.svg)](https://greenkeeper.io/)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 A minimal example to show how to use [observable-redux-json-api](https://github.com/kristerkari/observable-redux-json-api) library using [React](https://reactjs.org/) and [Express.js](https://expressjs.com/).
