@@ -2,7 +2,7 @@
   "name": "observable-redux-json-api-example",
   "version": "1.0.0",
   "description":
-    "A minimal example to show how to use observable-redux-json-api library.",
+    "A minimal example to show how to use observable-redux-json-api library using React and Express.js.",
   "private": true,
   "scripts": {
     "analyze-bundle":
