@@ -1,4 +1,4 @@
-# observable-redux-json-api Example App
+# Observables + Redux + JSON API Example App
 
 A minimal example to show how to use [observable-redux-json-api](https://github.com/kristerkari/observable-redux-json-api) library using [React](https://reactjs.org/) and [Express.js](https://expressjs.com/).
 
